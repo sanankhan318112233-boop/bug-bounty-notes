@@ -1,24 +1,35 @@
-# bug-bounty-notes
+# Hamza Ahmad | Ethical Hacking Lab
+Penetration Tester | Bug Bounty Hunter | From Peshawar, Pakistan
 
-# Bug Bounty Notes - Hamza Ahmad
-Aspiring Penetration Tester | From Peshawar, Pakistan | Learning Ethical Hacking
+### 🛡️ About Me
+Aspiring Ethical Hacker focused on both Penetration Testing and Bug Bounty. I believe in learning by doing, so I document all my findings, payloads, and lab writeups here.
 
-## 🚀 About Me
-I'm a passionate learner focused on Bug Bounty and Penetration Testing. Currently learning through TryHackMe and PortSwigger.
+### 🎯 Core Expertise
+**Penetration Testing:**
+- Web App Pentesting (OWASP Top 10)
+- Network Pentesting & Enumeration
+- Tools: Nmap, Metasploit, Burp Suite, Wireshark
 
-## 📚 What I'm Learning
-- OWASP Top 10
-- Burp Suite Fundamentals
-- Network Scanning with Nmap
+**Bug Bounty:**
+- Recon & Information Gathering
+- Vulnerability Assessment
+- Payloads & Bypass Techniques
 
-## 💻 My Notes & Payloads
-### XSS
-`<script>alert(1)</script>`
+### 🧰 Tools & Skills
+Kali Linux | Burp Suite | Nmap | Metasploit | Python | Bash | TryHackMe | HackTheBox
 
-### SQL Injection
-`' OR '1'='1`
+### 📁 What's Inside This Lab
+- `/bug-bounty` - My payloads, recon notes
+- `/pentesting` - Network & web exploitation notes
+- `/writeups` - CTF and TryHackMe writeups
 
-## 🔗 Connect With Me
-- LinkedIn: [Add your LinkedIn here]
+### 🏆 Goals 2026
+- Earn my first bounty
+- Complete eJPT Certification
+- Top 5% on TryHackMe
 
-*Last Updated: October 2026 - Daily Learning*
+### 🔗 Connect With Me
+- LinkedIn: [Add Link]
+- GitHub: This Repo!
+
+*Building my offensive security career one exploit at a time.*
