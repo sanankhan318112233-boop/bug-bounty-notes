@@ -41,6 +41,7 @@
 
 ## My Progress
 - Understood IP, Ports, TCP/UDP, Nmap
+- My personal learning notes
   
 - Next Topic: Reconnaissance (Footprinting)
 
