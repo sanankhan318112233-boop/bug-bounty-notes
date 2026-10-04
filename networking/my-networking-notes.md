@@ -40,8 +40,8 @@
 - Can capture passwords in HTTP
 
 ## My Progress
-- Completed 4 hour networking course from Cyber Mind Space
 - Understood IP, Ports, TCP/UDP, Nmap
+  
 - Next Topic: Reconnaissance (Footprinting)
 
 ---
